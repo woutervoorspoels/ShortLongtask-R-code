@@ -4,7 +4,6 @@ rm(list=ls())
 #some constants
 nN <- 
 nD <- 15
-nS
 data <- list()
 
 ### Depression
